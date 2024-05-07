@@ -1,6 +1,4 @@
 # Business-Analytics-Capstone-Project
- 
-# Description
 University of Iowa Business Analytics and Information Systems Capstone Final Project
 
 # Project Title
