@@ -1,5 +1,7 @@
 # Business-Analytics-Capstone-Project
- University of Iowa Business Analytics and Information Systems Capstone Final Project
+ 
+# Description
+University of Iowa Business Analytics and Information Systems Capstone Final Project
 
 # Project Title
 Improving Patient Length of Stay
